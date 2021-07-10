@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304285912371",
+    "project_id": "sanyams-whatsapp",
+    "storage_bucket": "sanyams-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304285912371:android:7eb7eb6cc3f0c13ea08246",
+        "android_client_info": {
+          "package_name": "com.example.sanyamwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304285912371-erqno7vnvla4lug12e13nv8lulvac3lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPih9esV7CRw4VE-oxSaxRdLlM4jwSWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304285912371-erqno7vnvla4lug12e13nv8lulvac3lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

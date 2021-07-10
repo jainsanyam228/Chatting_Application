@@ -1,0 +1,2 @@
+rootProject.name = "Sanyam Whatsapp"
+include ':app'
