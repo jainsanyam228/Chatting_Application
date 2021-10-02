@@ -29,8 +29,8 @@
 
             android:layout_weight="1"
             android:background="@drawable/bg_edit_text"
-            android:ems="10"
-            android:layout_marginBottom="5dp"
+            android:ems="20"
+            android:layout_marginBottom="6dp"
             android:layout_marginLeft="5dp"
             android:hint="Enter Your Message"
             android:inputType="textPersonName"
